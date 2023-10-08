@@ -1,0 +1,39 @@
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote {
+  text-align: center;
+}
+
+.button1 {
+  background-color: #6c5b7b;
+  color: white;
+  position: absolute;
+  top: 50%;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.button1:hover {
+  background-color: #433c4a;
+  transition: 0.5s;
+}
+
+.introduction {
+  position: absolute;
+  display: flex;
+  top: 20%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logotext {
+  text-align: left;
+}
+
+.logophoto {
+  display: flex;
+  text-align: left;
+}
